@@ -1,1 +1,1 @@
-# alx-system_engeneering-devops
+# the reposotory containing the some basic scripts
