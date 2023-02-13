@@ -1,3 +1,2 @@
 #!/bin/bash
-file="/etc/passwd"
-cat $file
+cat /etc/passwd
