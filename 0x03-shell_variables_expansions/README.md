@@ -1,1 +1,0 @@
-my variables in script
